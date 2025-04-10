@@ -4,7 +4,7 @@
 
 ## 第一版
 使用回溯算法生成数独谜题。将输入数字的按钮做成3*3的九宫格。
-
+<img src="https://github.com/zeisscai/Sudoku4ios/blob/main/test.JPG?raw=true" alt="test" width="500"/>
 ## 第二版
 新需求：将数独本身的数字用红色、用户填写的数字用蓝色。
 对用户点格子的识别范围太小、改为和格子一样大。
